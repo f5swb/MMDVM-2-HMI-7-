@@ -6,3 +6,5 @@ un fichier HMI 7" pour MMDVM/PISTAR DVMEGA 1 TS
 - réglage luminosité et fonction éconimisateur d'écran, réglage date, heures (AM/PM)
 - carte mondiale / heure dans le monde (modèle k - pile RTC indispensable) 
 - page DASHBOARD
+- indication colorée de la température du CPU 
+- drapeaux des pays 
