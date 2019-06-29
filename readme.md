@@ -1,7 +1,9 @@
 MMDVM-2-HMI-7" modèle : NX8048K070_011
 MMDVM/PISTAR DVMEGA 1 TS 
 Fonctions : 
-- page MMDVM 
+- page MMDVM :
+<img src = "https://github.com/f5swb/greyline-Nextion-screen/blob/master/Capture%20boot.JPG" title = "Nextion greyline boot">
+
 - page DMR : Timer progressif Time out time à 3mn
 - page INFO système :
 - réglage luminosité et fonction éconimisateur d'écran, réglage date, heures (AM/PM) jour de la semaine 
