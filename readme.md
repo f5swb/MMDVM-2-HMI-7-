@@ -10,7 +10,8 @@ Fonctions :
 
 - page INFO système :
 <img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2755.jpg" title = "Nextion INFO">
-  indication colorée de la température du CPU et des autres données système 
+  indications colorées de la température du CPU et des autres données du système 
+
 
 - réglage luminosité et fonction éconimisateur d'écran, réglage date, heures (AM/PM) jour de la semaine :
 <img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2740.jpg" title = "Nextion MMDVM">
