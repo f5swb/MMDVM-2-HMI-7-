@@ -1,10 +1,12 @@
-MMDVM-2-HMI-7-
-un fichier HMI 7" pour MMDVM/PISTAR DVMEGA 1 TS
+MMDVM-2-HMI-7" modèle : NX8048K070_011
+MMDVM/PISTAR DVMEGA 1 TS 
+Fonctions : 
 - page MMDVM 
-- page DMR 
-- page INFO système
-- réglage luminosité et fonction éconimisateur d'écran, réglage date, heures (AM/PM)
+- page DMR : Timer progressif Time out time à 3mn
+- page INFO système :
+- réglage luminosité et fonction éconimisateur d'écran, réglage date, heures (AM/PM) jour de la semaine 
 - carte mondiale / heure dans le monde (modèle k - pile RTC indispensable) 
-- page DASHBOARD
-- indication colorée de la température du CPU 
+- page DASHBOARD : 10 dernières stations entendues 
+- indication colorée de la température du CPU et des autres données système 
 - drapeaux des pays 
+
