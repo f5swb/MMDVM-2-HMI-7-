@@ -6,7 +6,7 @@ Fonctions :
 <img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2738.jpg" title = "Nextion MMDVM">
 
 - page DMR : Timer progressif Time out time à 3mn :
-
+<img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2757.jpg" title = "Nextion MMDVM">
 
 - page INFO système :
 <img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2755.jpg" title = "Nextion INFO">
