@@ -18,7 +18,7 @@ Fonctions :
 <img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2743.jpg" title = "Nextion MMDVM">
 
 - page DASHBOARD : 10 dernières stations entendues. 
-
+<img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/dash.JPG" title = "Nextion MMDVM">
 
 
 
