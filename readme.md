@@ -20,6 +20,6 @@ Fonctions :
 - page DASHBOARD : 10 dernières stations entendues. 
 <img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/dash.JPG" title = "Nextion MMDVM">
 
-
+https://github.com/on7lds/NextionDriverInstaller
 
 
