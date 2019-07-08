@@ -1,5 +1,6 @@
 MMDVM-2-HMI-7" modèle : NX8048K070_011
 MMDVM/PISTAR DVMEGA 1 TS 
+Version 1.2
 
 Fonctions : 
 - page MMDVM :
