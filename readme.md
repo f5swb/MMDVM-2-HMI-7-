@@ -23,4 +23,10 @@ Fonctions :
 
 https://github.com/on7lds/NextionDriverInstaller
 
+nouvelles fonctions en beta test :
+
+- choix du DMR MASTER 
+- update PI-STAR et RPI/DEBIAN 
+
+
 
