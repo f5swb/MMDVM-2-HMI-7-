@@ -28,5 +28,5 @@ nouvelles fonctions en beta test :
 - choix du DMR MASTER 
 - update PI-STAR et RPI/DEBIAN 
 
-
+<img src = "https://github.com/f5swb/MMDVM-2-HMI-7-/blob/master/thumbnail_IMG_2821.jpg" title = "Nextion MMDVM">
 
